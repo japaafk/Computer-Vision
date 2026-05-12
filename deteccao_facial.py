@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 # INICIALIZANDO O OPENCV
 # HAAR CASCADES: CLASSIFICADOR PRÉ-TREINADO
